@@ -1,6 +1,8 @@
 
 # Aptiqs CLI
-
+[![CI Pipeline](https://github.com/aptiqs-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/aptiqs-cli/actions)
+[![Go Report Card](https://goreportcard.com/badge/github.com/aptiqs-cli)](https://goreportcard.com/report/github.com/aptiqs-cli)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ## 🚀 Introduction
 Aptiqs is a powerful CLI tool designed for monitoring, optimizing, and automating build environments. It ensures consistency across environments and streamlines DevOps workflows.
 
