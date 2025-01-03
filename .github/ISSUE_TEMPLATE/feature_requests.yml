@@ -1,0 +1,19 @@
+name: ✨ Feature Request
+description: Suggest a new feature for Aptiqs CLI
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the Feature
+      description: What is the feature, and why is it useful?
+    validations:
+      required: true
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Use Case
+      description: How will this feature be used?
+    validations:
+      required: true
